@@ -18,7 +18,7 @@ Apart from the course participants, you can use this content by yourself to lear
 1. [Function Attributes](./d-attributes/fattr.md)
 1. [Memory Management](./mem-management/intro-to-mem.md)
 1. [Introduction to Meta-Programming](./meta-intro/intro-to-meta.md)
-1. [Functional D](./lab-05/)
+1. [Functional D](./ranges/ranges.md)
 1. [C/C++ Interoperability and Tooling](./c_cpp_interop/intro.md)
 1. [Advanced Structs and Classes](./structs-classes/asc.md)
 1. [Advanced Meta-Programming](./advanced-meta/advanced-meta.md)
